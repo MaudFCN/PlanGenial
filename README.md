@@ -1,1 +1,1 @@
-# PlanG-nial
+# PlanGenial
